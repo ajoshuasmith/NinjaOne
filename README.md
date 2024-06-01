@@ -1,0 +1,1 @@
+These are some [NinjaOne](https://www.ninjaone.com/) specific scripts that were either created by me or found within the [NinjaOne community](https://discord.gg/ninjaone) that we utilized within the platform. 
